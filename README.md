@@ -1,5 +1,6 @@
 # Skull Caps Windows 10 Patch
 This patch allows you to play Skull Caps (1998) on Windows 10.
+
 We added a window mode so that the game can be played on modern monitors.
 
 ## Instructions
